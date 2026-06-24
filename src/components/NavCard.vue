@@ -30,7 +30,8 @@ defineProps<{
 
 const dialog = useDialogStore()
 
-function handleJs(js: string, text: string) {
+function handleClick(event: MouseEvent, js: string, text: string) {
+  event.preventDefault()
   if (js.includes('dialog.showMsg')) {
     dialog.showMsg(text)
   }
