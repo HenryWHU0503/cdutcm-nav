@@ -10,7 +10,7 @@
         :key="idx"
         :data-sub="item.desc || ''"
         :href="item.link || undefined"
-        @click.prevent="item.js ? handleJs(item.js, item.text) : undefined"
+        @click="item.js ? handleClick($event, item.js, item.text) : undefined"
         target="_blank"
       >
         <i v-if="item.icon" :class="item.icon"></i>
