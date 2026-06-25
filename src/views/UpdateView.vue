@@ -2,7 +2,23 @@
   <div class="nav-section active">
     <div style="margin: 15px"></div>
     <nav>
-      <h3><i class="fa-solid fa-circle-info"></i> v0.2.0 <mark>最新</mark></h3>
+      <h3><i class="fa-solid fa-circle-info"></i> v0.2.1 <mark>最新</mark></h3>
+    </nav>
+    <div class="navlist">
+      <div class="card">
+        <h4><i class="fa-solid fa-rotate"></i> 更新时间：2026.06.26</h4>
+        <p>
+          <b>基于0.2.0版本的一次简单修订</b>
+          <br>更新内容如下：
+          <br>1. 修复了一些不知道怎么出现的问题，小胡买了Trae Work的会员，因此帮我扫描并修复了一些问题。
+          <br>2. 终于把侧边栏的几个部分都补齐了，包括“了解成中医”和“重要信息”两个导航项。
+          <br>3. 上个版本里面“成中医导航”是比较空的，现在补上了各学院的链接。
+          <br>4. 因为在自己服务器上部署会出现各种各样的问题，小胡把这个项目开源了，然后使用CloudFlare Pages部署，有可能加载有点慢，见谅。
+        </p>
+      </div>
+    </div>
+    <nav>
+      <h3><i class="fa-solid fa-circle-info"></i> v0.2.0</h3>
     </nav>
     <div class="navlist">
       <div class="card">

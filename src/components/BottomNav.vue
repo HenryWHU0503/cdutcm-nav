@@ -24,10 +24,14 @@
       <i class="fa-solid fa-book"></i>
       <span>了解成中医</span>
     </router-link>
-    <a class="nav-item" @click="dialog.showMsg('功能开发中')">
-      <i class="fa-solid fa-link"></i>
-      <span>（开发中）</span>
-    </a>
+    <router-link
+        to="/learn"
+        class="nav-item"
+        :class="{ active: route.path === '/learn' }"
+      >
+        <i class="fa-solid fa-bell"></i>
+        <span>重要信息</span>
+      </router-link>
   </nav>
 </template>
 

@@ -6,7 +6,12 @@
       <mark>原版来源</mark>
     </div>
     <div>
-      <a href="">
+      <a href="https://github.com/HenryWHU0503/cdutcm-nav" target="_blank">
+        <i class="fa-brands fa-github"></i> HenryWHU0503/cdutcm-nav</a>
+      <mark>当前版本</mark>
+    </div>
+    <div>
+      <a href="https://qm.qq.com/q/mPbkETB0sM" target="_blank">
         <i class="fa-brands fa-qq"></i> 建议反馈QQ群：1102908078</a>
       <mark>欢迎反馈</mark>
       <mark>进群密码：CDUTCM2026</mark>

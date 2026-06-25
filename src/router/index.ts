@@ -24,6 +24,12 @@ const router = createRouter({
       meta: { section: 2 }
     },
     {
+      path: '/info',
+      name: 'info',
+      component: () => import('../views/InfoView.vue'),
+      meta: { section: 3 }
+    },
+    {
       path: '/:pathMatch(.*)*',
       redirect: '/'
     }

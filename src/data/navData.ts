@@ -167,15 +167,35 @@ navList[1] = [{
   name: "友链", icon: "fa-solid fa-link",
   desc: `<a onclick="dialog.showMsg('联系方式')"><i class="fa-solid fa-user-plus"></i> 添加友链</a>`,
   item: [
-    { text: "小胡的个人网站", desc: "导航站修改者，智医小弟", icon: "fa-solid fa-wechat", link: "https://henry.city/" },
+    { text: "小胡的个人网站", desc: "导航站修改者，智医小弟", icon: "fa-solid fa-circle-user", link: "https://henry.city/" },
     { text: "纸鹿的个人网站", desc: "导航站原作者，西邮大佬", link: "https://zhilu.site/" },
-    { text: "小胡的公众号", desc: "微信搜“小胡同学的记事本”", link: "" },
+    { text: "小胡的公众号", desc: "微信搜“小胡同学的记事本”", icon: "fa-solid fa-people-line", link: "" },
     { text: "CO导航", desc: "本站Fork来源", link: "https://cooo.site/" },
   ]
 },]
 
 navList[2] = [{
-  name: "了解各学院", icon: "fa-solid fa-signs-post", item: [
-    { text: "半岛导航", desc: "西邮 学习", link: "https://www.bandao.ltd/guidance/" },
+  name: "了解各学院（引用官网排序）", icon: "fa-solid fa-signs-post", item: [
+    { text: "基础医学院", link: "https://zyd.cdutcm.edu.cn/jcyxy/" },
+    { text: "临床学院", link: "http://www.sctcm120.com/" },
+    { text: "药学院", link: "https://zyd.cdutcm.edu.cn/yxy/" },
+    { text: "针灸推拿学院", link: "https://zyd.cdutcm.edu.cn/zjtnxydsfsyy/" },
+    { text: "眼科学院", link: "https://zyd.cdutcm.edu.cn/ykxy/" },
+    { text: "养生康复学院", link: "https://zyd.cdutcm.edu.cn/yskfxy/" },
+    { text: "民族医药学院", link: "https://zyd.cdutcm.edu.cn/mzyyxy/" },
+    { text: "医学与生命科学学院", link: "https://zyd.cdutcm.edu.cn/yxysmkxxy/" },
+    { text: "公共卫生学院", link: "https://zyd.cdutcm.edu.cn/ggwsxy/" },
+    { text: "医学技术学院", link: "https://zyd.cdutcm.edu.cn/yxjsxy/" },
+    { text: "护理学院", link: "https://zyd.cdutcm.edu.cn/hlxy/" },
+    { text: "智能医学学院", link: "https://zyd.cdutcm.edu.cn/yxxxgcxy/" },
+    { text: "管理学院", link: "https://zyd.cdutcm.edu.cn/glxy/" },
+    { text: "马克思主义学院", link: "https://zyd.cdutcm.edu.cn/mkszyxyrwskxy/" },
+    { text: "体育健康学院", link: "https://zyd.cdutcm.edu.cn/tyjkxy/" },
+    { text: "外语学院", link: "https://zyd.cdutcm.edu.cn/wyxy/" },
+    { text: "国学院", link: "https://zyd.cdutcm.edu.cn/gxy/" },
+    { text: "国际教育学院", link: "https://zyd.cdutcm.edu.cn/gjjyxy/" },
+    { text: "继续教育学院", link: "https://zyd.cdutcm.edu.cn/jxjyxy/" },
+    { text: "基尔健康医学院", link: "https://zyd.cdutcm.edu.cn/keele/" },
+    { text: "现代中药产业学院", link: "https://cdutcm.edu.cn/xdzycyxy/" },
   ]
 }]

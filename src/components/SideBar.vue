@@ -26,10 +26,14 @@
         <i class="fa-solid fa-book"></i>
         <span>了解成中医</span>
       </router-link>
-      <a class="sidebar-item" @click="dialog.showMsg('功能开发中')">
-        <i class="fa-solid fa-link"></i>
-        <span>（开发中）</span>
-      </a>
+      <router-link
+        to="/info"
+        class="sidebar-item"
+        :class="{ active: route.path === '/info' }"
+      >
+        <i class="fa-solid fa-bell"></i>
+        <span>重要信息</span>
+      </router-link>
     </div>
 
     <div class="sidebar-section">
