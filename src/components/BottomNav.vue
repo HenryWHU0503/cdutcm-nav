@@ -37,8 +37,6 @@
 
 <script setup lang="ts">
 import { useRoute } from 'vue-router'
-import { useDialogStore } from '@/stores/dialog'
 
 const route = useRoute()
-const dialog = useDialogStore()
 </script>
