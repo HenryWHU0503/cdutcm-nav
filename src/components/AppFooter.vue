@@ -8,6 +8,7 @@
           <i class="fa-solid fa-address-card"></i> 渝ICP备2024036203号-1
         </a>
       </p>
+      <p>使用 CloudFlare Web Analytics 进行数据统计，使用本网站即代表您同意这些相关服务。</p>
     </div>
     <div>
       <p>联系<b><a href="mailto:i@henry.city">i@henry.city</a></b>可<strong>添加链接</strong>。</p>
