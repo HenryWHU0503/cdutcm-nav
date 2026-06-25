@@ -6,7 +6,7 @@
     </nav>
     <div class="navlist">
       <div class="card">
-        <h4><i class="fa-solid fa-rotate"></i> 更新时间：2026.06.26</h4>
+        <h4><i class="fa-solid fa-rotate"></i> 更新时间：2026.06.25</h4>
         <p>
           <b>基于0.2.0版本的一次简单修订</b>
           <br>更新内容如下：
@@ -22,7 +22,7 @@
     </nav>
     <div class="navlist">
       <div class="card">
-        <h4><i class="fa-solid fa-rotate"></i> 更新时间：2026.05.31</h4>
+        <h4><i class="fa-solid fa-rotate"></i> 实际更新时间：2026.06.24，代码完成时间：2026.05.31</h4>
         <p>
           <b>一次大更新，虽然从界面上看不太明显</b>
           <br>更新内容如下：
