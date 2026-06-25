@@ -25,9 +25,9 @@
       <span>了解成中医</span>
     </router-link>
     <router-link
-        to="/learn"
+        to="/info"
         class="nav-item"
-        :class="{ active: route.path === '/learn' }"
+        :class="{ active: route.path === '/info' }"
       >
         <i class="fa-solid fa-bell"></i>
         <span>重要信息</span>
