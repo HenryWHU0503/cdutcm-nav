@@ -22,6 +22,15 @@
       </p>
     </div>
     <nav>
+      <h3><i class="fa-solid fa-rotate"></i> 更新时间：2026.06.26</h3>
+    </nav>
+    <div class="card">
+      <p>
+          关于2026-2027-1（秋季）学期课程补选的通知
+      </p>
+      <a href="https://zyd.cdutcm.edu.cn/jwc/jwgg/content_141673" target="_blank">教务处通知原文</a>
+    </div>
+    <nav>
       <h3><i class="fa-solid fa-rotate"></i> 更新时间：2026.06.25</h3>
     </nav>
     <div class="card">
@@ -29,6 +38,7 @@
           2026年下半年第78次全国计算机等级考试（NCRE）将于<b>2026年6月29日09:00至7月8日24:00</b>报名。
       </p>
       <a href="https://ncre-bm.neea.edu.cn/" target="_blank">NCRE报名地址</a>
+      <a href="https://zyd.cdutcm.edu.cn/jwc/jwgg/content_141712" target="_blank">教务处原文</a>
     </div>
   </div>
 </template>
